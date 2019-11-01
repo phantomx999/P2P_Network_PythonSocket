@@ -1,9 +1,9 @@
-//written by phantomx999
+#//written by phantomx999
 
-P2P Network File Sharing with Python TCP Sockets
+#P2P Network File Sharing with Python TCP Sockets
 
-INSTRUCTIONS TO RUN THE PROGRAM:
-  PHASE 1:
+#INSTRUCTIONS TO RUN THE PROGRAM:
+#  PHASE 1:
 
 Instructions for running Programs:
 1.  open terminal and cd into directory where M_server.py and server_client.py are stored
@@ -56,8 +56,8 @@ Instructions for running Programs:
     and this should continue to keep adding servers to the network.  M server must always be up and running the whole time
     for any server_client.py threads to work.  
 
-INSTRUCTIONS
-  PHASE 2:
+#INSTRUCTIONS
+#  PHASE 2:
 
 7.  After all total number of servers added to the network, you will notice that all servers will
     go into a new User Interface mode.  In this mode, user can print out current topo network,
