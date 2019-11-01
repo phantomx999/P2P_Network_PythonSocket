@@ -1,8 +1,8 @@
-#//written by phantomx999
+# //written by phantomx999
 
-#P2P Network File Sharing with Python TCP Sockets
+# P2P Network File Sharing with Python TCP Sockets
 
-#INSTRUCTIONS TO RUN THE PROGRAM:
+# INSTRUCTIONS TO RUN THE PROGRAM:
 #  PHASE 1:
 
 Instructions for running Programs:
@@ -56,7 +56,7 @@ Instructions for running Programs:
     and this should continue to keep adding servers to the network.  M server must always be up and running the whole time
     for any server_client.py threads to work.  
 
-#INSTRUCTIONS
+# INSTRUCTIONS
 #  PHASE 2:
 
 7.  After all total number of servers added to the network, you will notice that all servers will
