@@ -1,9 +1,9 @@
-# //written by phantomx999
+#### //written by phantomx999
 
 # P2P Network File Sharing with Python TCP Sockets
 
-# INSTRUCTIONS TO RUN THE PROGRAM:
-#  PHASE 1:
+#### INSTRUCTIONS TO RUN THE PROGRAM:
+####  PHASE 1:
 
 Instructions for running Programs:
 1.  open terminal and cd into directory where M_server.py and server_client.py are stored
