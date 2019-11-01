@@ -20,10 +20,7 @@ Description:
 '''
 
 
-# Andrew Steinbrueck
-# Student ID:  3949010
-# CSCI 4211
-# Socket Programming Assignment
+# written by phantomx999
 # Phase 1 and Phase 2
 # Date: April 21st 2019
 
